@@ -21,3 +21,5 @@ $ helm repo add kiwigrid https://kiwigrid.github.io
 * Always create new branches to work on
 * Create a Github pull request and fill out the PR template
 * Follow Helm best practices: [https://docs.helm.sh/chart_best_practices](https://docs.helm.sh/chart_best_practices)
+
+go ahead
